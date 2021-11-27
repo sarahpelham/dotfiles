@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sarah.pelham@gmail.com
+	name = Sarah Pelham
